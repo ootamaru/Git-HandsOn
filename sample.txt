@@ -1,2 +1,3 @@
 git hands on !!
 <p> git reset trial <p>
+<P> feature3 <p>
